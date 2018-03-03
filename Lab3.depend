@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1489017898 source:c:\users\simon\desktop\programming\c++\lab3\convert.cpp
+	"Convert.h"
+
+1489017898 c:\users\simon\desktop\programming\c++\lab3\convert.h
+	<iostream>
+	<iomanip>
+
+1489017898 source:c:\users\simon\desktop\programming\c++\lab3\main.cpp
+	<iostream>
+	"Convert.h"
+
